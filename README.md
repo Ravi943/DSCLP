@@ -1,5 +1,5 @@
 # DSCLP
-##Project
+## Project
 Test Repository for Data Science
 
--Tutorial Project
+ -Tutorial Project
